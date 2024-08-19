@@ -17,6 +17,25 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+display_name = 'Linus Torvalds'
+username = 'torvalds'
+logo_src = 'https://avatars.githubusercontent.com/u/1024025?v=4'
 
+WebUI.openBrowser('https://sparkling-starship-a8100b.netlify.app/user')
 
+WebUI.click(findTestObject('Object Repository/page_profile1/Page_Profile/h2_Profile'))
+
+WebUI.setText(findTestObject('Object Repository/page_profile1/Page_Profile/input_About_name'), username)
+
+WebUI.click(findTestObject('Object Repository/page_profile1/Page_Profile/button_Enter'))
+
+WebUI.delay(5)
+
+WebUI.verifyMatch(WebUI.getAttribute(findTestObject('Object Repository/page_profile1/Page_Profile/img'), 'src'), logo_src, false)
+
+WebUI.verifyMatch(WebUI.getText(findTestObject('Object Repository/page_profile1/Page_Profile/h3_Falana Tolulope')), display_name, false)
+
+WebUI.verifyMatch(WebUI.getText(findTestObject('Object Repository/page_profile1/Page_Profile/p_Login name FalanaTolu')), 'Login name: ' + username, false)
+
+WebUI.closeBrowser()
 
