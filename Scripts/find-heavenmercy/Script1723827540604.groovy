@@ -17,10 +17,24 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-<<<<<<< HEAD
+display_name = 'HeavenMercy'
+username = 'HeavenMercy'
+logo_src = 'https://avatars.githubusercontent.com/u/48239550?v=4'
 
 
-=======
-WebUI.callTestCase(findTestCase("Test Cases/find-heavenmercy"), null)
->>>>>>> 563a9814b81234ac014bd0488e5b0cdbf0260fe4
+// ----------------------------------------------------------------------------
 
+WebUI.openBrowser("https://sparkling-starship-a8100b.netlify.app")
+
+WebUI.click(findTestObject("Object Repository/Page_Home/a_Profile"))
+
+WebUI.setText(findTestObject("Object Repository/Page_Profile/input_user"), username)
+WebUI.click(findTestObject("Object Repository/Page_Profile/button_Enter"))
+
+WebUI.delay(5)
+
+WebUI.verifyMatch(WebUI.getAttribute(findTestObject("Object Repository/Page_Profile/img_logo"), 'src'), logo_src, false)
+WebUI.verifyMatch(WebUI.getText(findTestObject("Object Repository/Page_Profile/h3_displayName")), display_name, false)
+WebUI.verifyMatch(WebUI.getText(findTestObject("Object Repository/Page_Profile/p_login")), "Login name: "+username, false)
+
+WebUI.closeBrowser()
