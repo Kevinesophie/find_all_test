@@ -17,15 +17,6 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-
-
-=======
-WebUI.callTestCase(findTestCase("Test Cases/find-heavenmercy"), null)
->>>>>>> 563a9814b81234ac014bd0488e5b0cdbf0260fe4
-
-=======
 WebUI.callTestCase(findTestCase("Test Cases/find-heavenmercy"), null)
 WebUI.callTestCase(findTestCase("Test Cases/find-addyosmani"), null)
->>>>>>> 73d2463927ffdbbe78aa918df113c5cb68c709b7
+WebUI.callTestCase(findTestCase("Test Cases/find-kevinesophie"), null)
