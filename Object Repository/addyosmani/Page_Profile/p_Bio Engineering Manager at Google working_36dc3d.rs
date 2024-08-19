@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Bio Engineering Manager at Google working_36dc3d</name>
+   <tag></tag>
+   <elementGuidId>b3f550f5-fda6-4195-a631-7c295fe173e1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p:nth-of-type(2)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/section/section/article/div/div[2]/p[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>9210f9ea-0d00-4d5a-bdd8-84d7e998e2a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bio: Engineering Manager at Google working on Chrome &amp; Web Platform</value>
+      <webElementGuid>53519055-23c7-4ada-84d8-0d5a79746bb1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/section[1]/section[@class=&quot;profile-section&quot;]/article[@class=&quot;profile-container&quot;]/div[@class=&quot;profile&quot;]/div[@class=&quot;profile-text&quot;]/p[2]</value>
+      <webElementGuid>03603a81-44c0-48d0-b99d-10061098b361</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/section/section/article/div/div[2]/p[2]</value>
+      <webElementGuid>e924835f-f5de-43b8-8ffc-ab7208fd76d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login name:'])[1]/following::p[1]</value>
+      <webElementGuid>636f18b9-cf30-4b67-81ba-86a8ecd0dd7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Addy Osmani'])[1]/following::p[2]</value>
+      <webElementGuid>038fa480-f8a7-4083-b7c9-64866564ea0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email:'])[1]/preceding::p[1]</value>
+      <webElementGuid>38fd3278-7c11-4c36-b7e3-0327094e341b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Engineering Manager at Google working on Chrome &amp; Web Platform']/parent::*</value>
+      <webElementGuid>810967a8-b5ea-488b-8cf3-2a7fdaae6a1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[2]</value>
+      <webElementGuid>275faa40-73e3-4c73-a886-b81945b53b52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Bio: Engineering Manager at Google working on Chrome &amp; Web Platform' or . = 'Bio: Engineering Manager at Google working on Chrome &amp; Web Platform')]</value>
+      <webElementGuid>c9845210-79af-4e8b-8c59-f0965b5d2756</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
