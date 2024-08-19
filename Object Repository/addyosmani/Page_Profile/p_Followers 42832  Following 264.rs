@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Followers 42832  Following 264</name>
+   <tag></tag>
+   <elementGuidId>1e537032-f813-47e6-9a04-d50cd2f77972</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p:nth-of-type(7)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/section/section/article/div/div[2]/p[7]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>2808a9ab-2a6a-4ace-bd17-5bb67d852feb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Followers: 42832    Following: 264</value>
+      <webElementGuid>3646fd33-62e8-45b4-b461-88fccd83d3b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/section[1]/section[@class=&quot;profile-section&quot;]/article[@class=&quot;profile-container&quot;]/div[@class=&quot;profile&quot;]/div[@class=&quot;profile-text&quot;]/p[7]</value>
+      <webElementGuid>82fabc41-00b4-496d-8aa7-2e0cdb1ad124</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/section/section/article/div/div[2]/p[7]</value>
+      <webElementGuid>18d74a7d-0154-40d8-a10c-c9ec6e504e9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last Update:'])[1]/following::p[1]</value>
+      <webElementGuid>edbfaf7e-1dc0-4830-911e-2242d6ca4c51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Public Repos:'])[1]/following::p[1]</value>
+      <webElementGuid>0390e2d0-b7f9-49cb-bac3-7384e3656e95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='42832']/parent::*</value>
+      <webElementGuid>2524f591-7c41-4916-93f7-6e377d3bcc11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[7]</value>
+      <webElementGuid>5818b960-5fe1-4b47-875d-1492f53a9ab4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Followers: 42832    Following: 264' or . = 'Followers: 42832    Following: 264')]</value>
+      <webElementGuid>56d49ebe-4258-4045-95fe-462ec78fc16e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

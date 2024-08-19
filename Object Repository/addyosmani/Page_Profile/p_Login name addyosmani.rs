@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Login name addyosmani</name>
+   <tag></tag>
+   <elementGuidId>1e120289-bc46-491d-b6a1-f33b8cd98c22</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/section/section/article/div/div[2]/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>358575d8-1345-4123-8868-531f090b64de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Login name: addyosmani</value>
+      <webElementGuid>5533f5b9-32df-4e49-b7a9-042e13ca2152</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/section[1]/section[@class=&quot;profile-section&quot;]/article[@class=&quot;profile-container&quot;]/div[@class=&quot;profile&quot;]/div[@class=&quot;profile-text&quot;]/p[1]</value>
+      <webElementGuid>51ed5848-f0be-4d6c-be07-f756e930a7d5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/section/section/article/div/div[2]/p</value>
+      <webElementGuid>cda95755-8c79-4038-b2ba-d7ba1bdd9578</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Addy Osmani'])[1]/following::p[1]</value>
+      <webElementGuid>8777c1b5-4832-4e77-9f68-ab3d617a0bcf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bio:'])[1]/preceding::p[1]</value>
+      <webElementGuid>8f8c7673-78b6-4f3f-ad99-3cfe310f2d89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='addyosmani']/parent::*</value>
+      <webElementGuid>6fbb0b83-544a-44ec-90e5-749159f889c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>715677c1-6680-4c17-91af-4ffe418ad925</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Login name: addyosmani' or . = 'Login name: addyosmani')]</value>
+      <webElementGuid>84f6310f-32c4-4ffd-9edf-3dff59904f98</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -18,4 +18,4 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase("Test Cases/find-heavenmercy"), null)
-
+WebUI.callTestCase(findTestCase("Test Cases/find-addyosmani"), null)
