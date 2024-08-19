@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Enter</name>
+   <name>h3_Falana Tolulope</name>
    <tag></tag>
-   <elementGuidId>f90e6bb5-97df-4106-ac2e-a17f13161cf1</elementGuidId>
+   <elementGuidId>29394541-215d-4315-afd7-83f6bd924707</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>div.input-bar > button</value>
+         <value>h3</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='root']/section/section/div[2]/button</value>
+         <value>//div[@id='root']/section/section/article/div/div[2]/h3</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,79 +22,79 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>8183b313-62d1-4bb9-9fab-7dcde614c675</webElementGuid>
+      <value>h3</value>
+      <webElementGuid>38ba933b-f7cc-4573-a192-57834cc3a1e5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Enter</value>
-      <webElementGuid>9277f367-9214-4a5a-8ac5-32df674e4acd</webElementGuid>
+      <value>Falana Tolulope</value>
+      <webElementGuid>40b27ed5-1e87-497f-a8ee-f280aa8aa9f9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/section[1]/section[@class=&quot;profile-section&quot;]/div[@class=&quot;input-bar&quot;]/button[1]</value>
-      <webElementGuid>8b9522fb-44df-4e68-b1cd-26278bf92966</webElementGuid>
+      <value>id(&quot;root&quot;)/section[1]/section[@class=&quot;profile-section&quot;]/article[@class=&quot;profile-container&quot;]/div[@class=&quot;profile&quot;]/div[@class=&quot;profile-text&quot;]/h3[1]</value>
+      <webElementGuid>8508b454-5d59-43fe-8dec-5998fc71542c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/section/section/div[2]/button</value>
-      <webElementGuid>c1da8069-8c0e-4883-aa1a-f9a91258c886</webElementGuid>
+      <value>//div[@id='root']/section/section/article/div/div[2]/h3</value>
+      <webElementGuid>1ef4db5f-c476-4f36-9c17-376c2a02a3b6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='About'])[1]/following::button[2]</value>
-      <webElementGuid>a8b3112d-6dac-4789-a567-e2e6a27c5e74</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Profile'])[3]/following::h3[1]</value>
+      <webElementGuid>a3800f5e-467e-4727-8d45-ca2d3b97706a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test'])[1]/following::button[2]</value>
-      <webElementGuid>3c8e2842-bcee-4ad9-a88f-4f08763335af</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login name:'])[1]/preceding::h3[1]</value>
+      <webElementGuid>900155eb-7216-42c2-9c65-77f92c1262ad</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Profile'])[3]/preceding::button[1]</value>
-      <webElementGuid>a052e678-d80c-435e-ab47-6486db29a04d</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bio:'])[1]/preceding::h3[1]</value>
+      <webElementGuid>2eaa4dd9-a848-4cbe-831c-1feb4370a7b8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Enter']/parent::*</value>
-      <webElementGuid>50f0504b-08ad-4264-9729-2f795ffbe03f</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Falana Tolulope']/parent::*</value>
+      <webElementGuid>cf1f0b52-6637-4797-a048-d31c13a9f0ed</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/button</value>
-      <webElementGuid>abbda2ea-1921-474d-a83a-4ffdc705deed</webElementGuid>
+      <value>//h3</value>
+      <webElementGuid>1a54947b-26c0-4f9f-945c-c4f25139746e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[(text() = 'Enter' or . = 'Enter')]</value>
-      <webElementGuid>1c7ed0bd-ab60-4590-82ba-05112a4a1207</webElementGuid>
+      <value>//h3[(text() = 'Falana Tolulope' or . = 'Falana Tolulope')]</value>
+      <webElementGuid>db88ea46-e776-4858-bc3e-340686f01523</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
