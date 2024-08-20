@@ -17,7 +17,24 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase("Test Cases/find-heavenmercy"), null)
-WebUI.callTestCase(findTestCase("Test Cases/find-addyosmani"), null)
-WebUI.callTestCase(findTestCase("Test Cases/find-kevinesophie"), null)
-WebUI.callTestCase(findTestCase("Test Cases/find-Bertrand-BENE"), null)
+
+displayName= "Bertrand BENE"
+userName= "Bertrand-BENE"
+src= "https://github.com/Bertrand-BENE"
+logo_src= "https://avatars.githubusercontent.com/u/161041830?v=4"
+
+WebUI.openBrowser('https://sparkling-starship-a8100b.netlify.app')
+WebUI.click(findTestObject('Object Repository/Page_Home/a_Profile'))
+WebUI.setText(findTestObject('Object Repository/Page_Profile/input_user'), userName)
+WebUI.click(findTestObject('Object Repository/Page_Profile/button_Enter'))
+
+WebUI.delay(10)
+ 
+WebUI.verifyMatch(WebUI.getAttribute(findTestObject('Object Repository/Page_Profile/img_logo'), 'src'), logo_src, false)
+WebUI.verifyMatch(WebUI.getText(findTestObject('Object Repository/Page_Profile/h3_displayName')), displayName, false)
+WebUI.verifyMatch(WebUI.getText(findTestObject('Object Repository/Page_Profile/p_login')), "Login name: "+userName, false)
+
+WebUI. verifyElementAttributeValue(findTestObject('Object Repository/Page_Profile/a_View on Github'), 'href', 'https://github.com/Bertrand-BENE', 10)
+
+WebUI.closeBrowser()
+
