@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_View on Github</name>
+   <tag></tag>
+   <elementGuidId>bfa166c7-50ad-4c50-83db-073c66461f7f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/section/section/article/div/div[2]/p[8]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.external-link > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9ad4876d-6016-43d2-b6cc-83ea52eb60d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://github.com/FalanaTolu</value>
+      <webElementGuid>7d864bb1-05b6-4edb-b77a-a0a00823ac91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>1b8283b5-ef85-460d-8f24-db0961853ae4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>noreferrer</value>
+      <webElementGuid>b6cb8827-eb15-4192-9e86-ceb73639173b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>View on Github </value>
+      <webElementGuid>ed1f1850-1f81-4e08-8de2-bd26a6b63c72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/section[1]/section[@class=&quot;profile-section&quot;]/article[@class=&quot;profile-container&quot;]/div[@class=&quot;profile&quot;]/div[@class=&quot;profile-text&quot;]/p[@class=&quot;external-link&quot;]/a[1]</value>
+      <webElementGuid>a748cf88-13ef-40b7-844d-dd22a83645d2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/section/section/article/div/div[2]/p[8]/a</value>
+      <webElementGuid>f2fc3917-d529-4f75-9227-b2fed2aaa9ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'View on Github')]</value>
+      <webElementGuid>29f8adda-4899-4f27-ace0-81f1c8434b34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Following:'])[1]/following::a[1]</value>
+      <webElementGuid>562aa1ce-006b-4b73-9143-8f426bd0cec8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Followers:'])[1]/following::a[1]</value>
+      <webElementGuid>203b1b95-7df8-4d33-85ae-1a96922dc127</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Repositories'])[1]/preceding::a[1]</value>
+      <webElementGuid>7fb8fcbd-10b9-40db-8645-5e90ed09833f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Activity'])[1]/preceding::a[2]</value>
+      <webElementGuid>874ef8f1-d2c3-4d89-838e-368f02683a17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='View on Github']/parent::*</value>
+      <webElementGuid>5307db29-23b2-41c9-8518-65a0c89d42bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://github.com/FalanaTolu')]</value>
+      <webElementGuid>53a6891e-776f-4049-8cb1-ca635b83983f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[8]/a</value>
+      <webElementGuid>d173b430-2e84-46ec-b8e5-cc7cbc5a77ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://github.com/FalanaTolu' and (text() = 'View on Github ' or . = 'View on Github ')]</value>
+      <webElementGuid>50b4c692-9b8c-42c6-97fc-ed410c5a930b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
